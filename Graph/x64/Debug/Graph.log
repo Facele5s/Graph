@@ -1,0 +1,101 @@
+﻿  Main.cpp
+A:\C++\Graph\Graph\Main.cpp(71,23): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+A:\C++\Graph\Graph\Main.cpp(75,23): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+A:\C++\Graph\Graph\Main.cpp(266,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+A:\C++\Graph\Graph\Main.cpp(267,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+A:\C++\Graph\Graph\Main.cpp(314,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(315,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(315,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(320,59): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(320,40): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(321,40): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(339,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(339,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(340,41): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(340,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(360,92): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(360,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(361,92): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(361,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(368,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(368,62): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(369,74): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(369,62): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+A:\C++\Graph\Graph\Main.cpp(390,89): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+A:\C++\Graph\Graph\Main.cpp(390,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+A:\C++\Graph\Graph\Main.cpp(405,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+A:\C++\Graph\Graph\Main.cpp(405,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+A:\C++\Graph\Graph\Main.cpp(68): warning C4715: function: значение возвращается не при всех путях выполнения
+  Graph.vcxproj -> A:\C++\Graph\x64\Debug\Graph.exe
